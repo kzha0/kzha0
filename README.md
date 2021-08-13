@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Rico, an IT consultant and full stack web developer.
-- 👀 I’m interested in creating information systems for accelerating enterprise development. 
+- 👀 I’m interested in information systems with applications in enterprise development. 
 - 🌱 I’m currently learning about OWASP internet security and deploying scalable commercial platforms.
 - 💞️ I’m looking to collaborate on e-commerce-related projects that expland my learning and builds my experience.
 - 📫 How to reach me: I'll add contact details soon!
